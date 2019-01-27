@@ -20,7 +20,8 @@ with open(ACTION_FILE, "r") as action_file:
 
 try:
 	result = input_with_prefill(action)
-except KeyboardInterrupt: 
+except KeyboardInterrupt:
+	print("\n")
 	sys.exit(0) #Allow to end the programm with STRG+C without throwing an exception
 
 with open(ACTION_FILE, "w") as action_file:
