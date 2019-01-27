@@ -1,0 +1,2 @@
+# nh
+NiceHistory for bash
