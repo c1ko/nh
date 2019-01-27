@@ -6,7 +6,7 @@
 ## Installation
 1. Clone the repository in a directory of your choice
 1. Install the requirements trough *pip3 install -r requirements.txt*
-1. Make nh.sh executable (chmod +x nh.sh)
+1. Make nh.sh executable *chmod +x nh.sh*
 1. If you like, set an alias in your .bashrc file: *alias nh="source PATH_TO_NH.SH"*
 
 ## Usage
